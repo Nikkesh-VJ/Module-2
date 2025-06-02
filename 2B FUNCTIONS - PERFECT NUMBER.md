@@ -1,4 +1,4 @@
-#Exp.No:2(b)	FUNCTIONS-PERFECT NUMBER
+# Exp.No:2(b)	FUNCTIONS-PERFECT NUMBER
 - **Name:** Nikkesh V
 - **Registration Number:** 212222050042
 
