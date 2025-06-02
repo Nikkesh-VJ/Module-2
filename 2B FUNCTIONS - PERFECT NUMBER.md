@@ -1,6 +1,7 @@
+#Exp.No:2(b)	FUNCTIONS-PERFECT NUMBER
 - **Name:** Nikkesh V
 - **Registration Number:** 212222050042
-Exp.No:2(b)	FUNCTIONS-PERFECT NUMBER
+
 
 ### AIM
 To write a Python Program to check if a number is a Perfect number using the concept of functions.
